@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on any projects that have a flavour of JS, Python and PHP.
 
-- 📫 you can contact me on my linkedin profile : https://www.linkedin.com/in/fatima-panhwar-950636290/
+- 📫 you can contact me on my linkedin profile : https://www.linkedin.com/in/fatima-panhwar-03749b31a/
 
 
 <!---
